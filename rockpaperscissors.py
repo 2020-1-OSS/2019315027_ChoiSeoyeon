@@ -4,4 +4,6 @@ play = ["Rock", "Paper", "Scissors"]
 computer = "Rock"
 print('Computer: {}'.format(computer))
 # get the user input
+
+player = input("Rock, Paper, Scissors? ")
 player = "Paper"
