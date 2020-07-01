@@ -7,5 +7,7 @@ play = ["Rock", "Paper", "Scissors"]
 computer = play[randint(0, 2)]
 print('Computer: {}'.format(computer))
 # get the user input
+
+player = input("Rock, Paper, Scissors? ")
 player = "Paper"
 print('Player: {}'.format(player))
